@@ -54,8 +54,8 @@ directory and run:
 - `export FLASK_APP=app.py` and `export FLASK_RUN_PORT=5555` to configure your
   Flask environment.
 - `flask db upgrade` to generate your database.
-- `python seed.py` to populate it.
-- `python app.py` to run your development server.
+- `python3 seed.py` to populate it.
+- `python3 app.py` to run your development server.
 
 In the second window, enter the `client/` directory and run:
 
